@@ -3,9 +3,13 @@
 ### Visão Geral
 Esse projeto utiliza o modelo extrapolação e interpolação de curvas *NelsonSiegelSvensson* para a obtenção do histórico das curvas de juros futuras **pré**, **ipca**, **igpm** e **tr**, gerando como output:
 
-1. Um arquivo .xlsx com 4 abas, cada uma com o histórico de dez/2015 a fev/2020 das respectivas taxas
+1. Um arquivo .xlsx com 4 abas, cada uma com o histórico de dez/2015 a fev/2020 das respectivas taxas.
+
 ![](https://github.com/AugustoCL/juros_futuros_susep/blob/master/imgs/output_excel.JPG)
+
 2. Um arquivo .gif, que apresenta a visualização histórica das 4 curvas para cada momento no tempo.
+
+![](./curvas_201512_202002_dark.gif)
 ![](./curvas_201512_202002.gif)
 
 ### Ferramentas Utilizadas
